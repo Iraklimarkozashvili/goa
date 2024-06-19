@@ -38,18 +38,3 @@ print(90 != 120)
 print(60 != 20)
 print(110 != 60)
 print(20 != 10)
-
-
-
-
-
-
-print(True and False)
-print(True and True)
-print(False and False)
-print(False and True)
-
-print(True or False)
-print(True or True)
-print(False or True)
-print(False or True)
