@@ -1,6 +1,7 @@
-number = int(input("enter any number: "))
+for n in range (1,11):
 
-if number % 2 == 0:
-    print("number is even")
-else:
-    print("number is not even")
+    print(n)
+
+
+
+n
