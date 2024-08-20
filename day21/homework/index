@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mercedes-Benz</title>
+</head>
+<body>
+<h1>Welcome To The Homepage of Mercedes-benz</h1>
+<ol>
+    <li><a href="homepage.html">Homepage</a></li>
+    <li><a href="Information.html">Information</a></li>
+    <li><a href="contactus.html">Contact us</a></li>
+
+</ol>
+ <br> <p><u>The Mercedes-benz Amg performance </u><i> is the best car that exist</i><b> And u wont regret buying it</b></p> <br>
+ The middle pictrue Are the mercedes pictures of when  the logo got created
+ <br>
+<img src="img/Wenglabi Cls.jpg" alt="Wenglabi Cls.">
+
+<img src="img/benz.jpg" alt=""width = "500">
+
+<img src="img/mERCEDES vito.jpg" alt="" width="500">
+
+<br> The End
+<br> This is the end of the mercedes presentation
+
+    
+</body>
+</html>
